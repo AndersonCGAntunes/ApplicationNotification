@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "770594104009",
+    "project_id": "applicationnotification-27d92",
+    "storage_bucket": "applicationnotification-27d92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770594104009:android:4f9d257e375bcd9cfc6318",
+        "android_client_info": {
+          "package_name": "com.relaxingsoft.applicationnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770594104009-ebbq90q4fk8pp2io3b74vlih4dc8o1u2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDdflv3QmcUtL2dTDBEEAex_c6ME9cNSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770594104009-ebbq90q4fk8pp2io3b74vlih4dc8o1u2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
